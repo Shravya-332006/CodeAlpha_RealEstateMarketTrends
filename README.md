@@ -10,7 +10,7 @@ A real estate intelligence and investment analysis dashboard designed to evaluat
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](task3_dashboard.png)
+![Dashboard Preview](Task3_dashboard.png)
 
 ---
 
